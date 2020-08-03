@@ -55,15 +55,15 @@ Edsger Dijkstra
 
 <p align="center">
   <a href="https://gitlab.com/Cleymax">
-    <img height="40" src="https://img.cleymax.fr/gitlab.svg" alt="GitLab link to profile" />
+    <img height="37" src="https://img.cleymax.fr/gitlab.svg" alt="GitLab link to profile" />
   </a>
   <a href="https://twitter.com/Cleymax">
-    <img height="40" src="https://img.cleymax.fr/twitter.svg" alt="Twitter link to profile" />
+    <img height="37" src="https://img.cleymax.fr/twitter.svg" alt="Twitter link to profile" />
   </a>
   <a href="https://github.com/Cleymax">
-    <img height="40" src="https://img.cleymax.fr/github.svg" alt="GitHub link to profile" />
+    <img height="37" src="https://img.cleymax.fr/github.svg" alt="GitHub link to profile" />
   </a>
   <a href="mailto:contact@cleymax.fr">
-    <img height="40" src="https://img.cleymax.fr/gmail.svg" alt="Professional Email" />
+    <img height="37" src="https://img.cleymax.fr/gmail.svg" alt="Professional Email" />
   </a>
 </p>
