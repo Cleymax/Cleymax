@@ -64,6 +64,6 @@ Edsger Dijkstra
     <img height="40" src="https://img.cleymax.fr/github.svg" alt="GitHub link to profile" />
   </a>
   <a href="mailto:contact@cleymax.fr">
-    <img height="40" src="https://img.cleymax.fr/github.svg" alt="Professional Email" />
+    <img height="40" src="https://img.cleymax.fr/gmail.svg" alt="Professional Email" />
   </a>
 </p>
