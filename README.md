@@ -1,8 +1,8 @@
+<img height="200" src="https://i.imgur.com/JVJLtmZ.gif">
+
 ## 👋 Hi there, I'm Clément
 
-<img height="200" src="https://img.cleymax.fr/tir-a-l-arc.gif">
-
-I like to develop, create bugs, google search, and copy and paste code I don't understand from Stackoverflow! 😂
+Second year student in computer networks & telecommunications. Passionate and self-taught developer for almost 6 years. I like to discover and learn new technologies.
 
 You can find some of my many personal projects or else I contribute on my book time.
 
@@ -55,15 +55,15 @@ Edsger Dijkstra
 
 <p align="center">
   <a href="https://gitlab.com/Cleymax">
-    <img height="37" src="https://img.cleymax.fr/gitlab.svg" alt="GitLab link to profile" />
+    <img height="37" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab link to profile" />
   </a>
   <a href="https://twitter.com/Cleymax">
-    <img height="37" src="https://img.cleymax.fr/twitter.svg" alt="Twitter link to profile" />
+    <img height="37" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter link to profile" />
   </a>
   <a href="https://github.com/Cleymax">
-    <img height="37" src="https://img.cleymax.fr/github.svg" alt="GitHub link to profile" />
+    <img height="37" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub link to profile" />
   </a>
-  <a href="mailto:contact@cleymax.fr">
-    <img height="37" src="https://img.cleymax.fr/gmail.svg" alt="Professional Email" />
+  <a href="mailto:contact@clementperrin.fr">
+    <img height="37" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Professional Email" />
   </a>
 </p>
