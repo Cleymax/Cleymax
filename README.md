@@ -2,7 +2,8 @@
 
 ## 👋 Hi there, I'm Clément
 
-Second year student in computer networks & telecommunications. Passionate and self-taught developer for almost 6 years. I like to discover and learn new technologies.
+Third year student in computer networks & telecommunications. Passionate and self-taught developer for almost 7 years. I like to discover and learn new technologies.
+For less than a year I have been working in the field of DevOps, containers and IT automation.
 
 You can find some of my many personal projects or else I contribute on my book time.
 
@@ -22,11 +23,10 @@ You can find some of my many personal projects or else I contribute on my book t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-gray?style=for-the-badge&logo=postgresql)
+![Go](https://img.shields.io/badge/-Go-gray?style=for-the-badge&logo=Go)
 
 ##### _... I'm learning_
-![Rust](https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust)
 ![C](https://img.shields.io/badge/-C-gray?style=for-the-badge&logo=c)
-![Go](https://img.shields.io/badge/-Go-gray?style=for-the-badge&logo=Go)
 
 
 #### Some of the technologies I have worked with
