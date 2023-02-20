@@ -7,12 +7,17 @@ For less than a year I have been working in the field of DevOps, containers and 
 
 You can find some of my many personal projects or else I contribute on my book time.
 
-### Languages...
+### Languages & Tools & Techs...
 
 ##### _... I love 💙_
 
 ![Java](https://img.shields.io/badge/-Java-gray?style=for-the-badge&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-gray?style=for-the-badge&logo=kotlin)
+![Terraform](https://img.shields.io/badge/-Terraform-gray?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-gray?style=for-the-badge&logo=ansible)
+![Docker](https://img.shields.io/badge/-Docker-gray?style=for-the-badge&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-gray?style=for-the-badge&logo=kubernetes)
+
 
 ##### _... I have used_
 
@@ -36,7 +41,6 @@ You can find some of my many personal projects or else I contribute on my book t
 ![Linux](https://img.shields.io/badge/-Linux-363636?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-363636?style=for-the-badge&logo=node.js&logoColor=339933)
 ![VueJS](https://img.shields.io/badge/-VueJS-363636?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/-Docker-363636?style=for-the-badge&logo=docker)
 _And more ..._
 
 #### My software 
@@ -44,6 +48,7 @@ _And more ..._
   <img src="https://img.shields.io/badge/-IntelliJ-0d0d0d?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-VsCode-0d0d0d?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
   <img src="https://img.shields.io/badge/-JetBrains IDE-0d0d0d?style=for-the-badge&logo=Jetbrains" />
+    <img src="https://img.shields.io/badge/-Fedora-0d0d0d?style=for-the-badge&logo=fedora" />
 </p>
 
 ___
