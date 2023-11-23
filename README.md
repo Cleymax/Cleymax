@@ -2,8 +2,8 @@
 
 ## 👋 Hi there, I'm Clément
 
-Third year student in computer networks & telecommunications. Passionate and self-taught developer for almost 7 years. I like to discover and learn new technologies.
-For less than a year I have been working in the field of DevOps, containers and IT automation.
+Passionate and self-taught developer for almost 7 years. I like to discover and learn new technologies.
+For less than a year I have been working in the field of DevOps, containers, cloud and IT automation.
 
 You can find some of my many personal projects or else I contribute on my book time.
 
